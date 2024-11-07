@@ -1,0 +1,11 @@
+@url= https://8080-camille04w-gamessw22024-irtpd3h5pir.ws-us116.gitpod.io
+
+GET {{url}}/plataformas
+
+###
+POST {{url}}/plataformas
+Content-Type: application/json
+
+{
+    "nome":"CB"
+}
