@@ -1,4 +1,4 @@
-@url= https://8080-camille04w-gamessw22024-irtpd3h5pir.ws-us116.gitpod.io
+@url= https://8080-juaanlxx-swgames2024-xslf6ukilg5.ws-us116.gitpod.io
 
 GET {{url}}/plataformas
 
@@ -7,5 +7,18 @@ POST {{url}}/plataformas
 Content-Type: application/json
 
 {
-    "nome":"CB"
+    "nome":"bBBE"
+}
+
+###
+DELETE {{url}}/plataformas/2
+
+
+###
+
+PUT {{url}}/plataformas/5
+Content-Type: application/json
+
+{
+    "nome": "rErE"
 }
